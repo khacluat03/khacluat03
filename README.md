@@ -1,16 +1,16 @@
-### Github của tôi
+### GitHub của Nguyễn Khắc Luật
 #### Giới thiệu
-Xin chào! Tôi là Nguyễn Khắc Luật, một người đam mê Công nghệ thông tin và chuyên ngành Khoa học Dữ liệu. Tôi tạo ra trang GitHub này để chia sẻ những thành tựu và các dự án mà tôi đã thực hiện trong lĩnh vực mà tôi đang theo đuổi.
+Xin chào! Mình là Nguyễn Khắc Luật – một người đầy đam mê với Công nghệ thông tin và chuyên sâu vào Khoa học Dữ liệu. GitHub này được tạo ra để chia sẻ các thành tựu và dự án mà mình đã dày công thực hiện, nhằm đóng góp giá trị cho cộng đồng công nghệ và lan tỏa đam mê của mình.
 
 #### Sở thích
-Ngoài việc nghiên cứu và làm việc trong ngành Khoa học Dữ liệu, tôi còn có sở thích nghe nhạc. Âm nhạc giúp tôi thư giãn và lấy lại năng lượng sau những giờ làm việc căng thẳng.
+Bên cạnh việc học tập và làm việc trong ngành Khoa học Dữ liệu, mình cũng có niềm yêu thích với âm nhạc. Âm nhạc giúp mình thư giãn và tái tạo năng lượng sau những giờ làm việc căng thẳng, là người bạn đồng hành trong hành trình sáng tạo và học hỏi.
 
-#### Mục đích của trang GitHub
-Chia sẻ các project môn học của tôi: Bạn sẽ tìm thấy các dự án tôi đã thực hiện trong quá trình học tập và làm việc. Mỗi dự án đều có mô tả chi tiết, mã nguồn và hướng dẫn sử dụng.
-Ghi nhận các thành tựu: Đây cũng là nơi tôi ghi lại những thành tựu cá nhân trong lĩnh vực Khoa học Dữ liệu, từ những bài báo cáo, nghiên cứu cho đến các giải thưởng, chứng chỉ tôi đã đạt được.
-Học hỏi và giao lưu: Tôi mong muốn được học hỏi thêm từ cộng đồng và hy vọng rằng những gì tôi chia sẻ sẽ có ích cho những ai đang theo đuổi cùng một lĩnh vực.
+#### Mục đích của GitHub này
+- Chia sẻ dự án học tập và cá nhân: Đây là nơi mình lưu trữ các dự án trong quá trình học và công tác. Mỗi dự án đều đi kèm với mã nguồn, mô tả chi tiết và hướng dẫn sử dụng, giúp bạn dễ dàng nắm bắt và triển khai.
+- Ghi nhận thành tựu: Từ các báo cáo nghiên cứu đến chứng chỉ, giải thưởng, tất cả những thành quả trong hành trình học tập và công việc đều được ghi nhận ở đây. Đây là "nhật ký số" ghi lại các cột mốc đáng tự hào.
+- Kết nối và học hỏi từ cộng đồng: Hy vọng rằng những chia sẻ tại đây có thể hữu ích với những ai có cùng đam mê và mục tiêu. Rất mong được giao lưu và học hỏi thêm từ mọi người trong cộng đồng.
 #### Liên hệ
-Nếu bạn có bất kỳ câu hỏi hay muốn kết nối, hãy liên hệ với tôi qua email: [khacluat1123@gmail.com]
-Facebook của tôi: [https://www.facebook.com/khacluat19/]
+Nếu bạn có bất kỳ câu hỏi nào hoặc muốn kết nối, hãy liên hệ với mình:
 
-#### Cảm ơn bạn đã ghé thăm trang GitHub của tôi!
+- Email: [khacluat1123@gmail.com](mailto:khacluat1123@gmail.com)
+- Facebook: https://www.facebook.com/khacluat10
