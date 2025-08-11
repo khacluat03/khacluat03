@@ -4,7 +4,7 @@
 
 </div>
 <h1 align="center">Hi there 👋, I'm Nguyen Khac Luat (@khacluat03)</h1>
-<h2 align="center">As a Data Science student from Vietnam, I am exploring and learning more about Artificial Intelligence, Machine Learning and Deep Learning.</h2>
+<h2 align="center">A Data Science student from Vietnam, I am exploring and learning more about Artificial Intelligence, Machine Learning and Deep Learning.</h2>
 
 - 🔭 I'm a student learning Data Science at Industrial University of Ho Chi Minh City.
 - 💬 Contact me [khacluat1123@gmail.com](mailto:khacluat1123@gmail.com)
